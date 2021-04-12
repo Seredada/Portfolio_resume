@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#PR01-633] Вкладки Акции и Мой профиль, отсутствие валидационного сообщения об отсутствии сети.</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://nav4it.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [PR01-633]&nbsp;<a href="https://nav4it.atlassian.net/browse/PR01-633">Вкладки Акции и Мой профиль, отсутствие валидационного сообщения об отсутствии сети.</a>
+            <span class="subText">
+               Создано: 12/мар/21                   &nbsp;Обновлено: 12/мар/21
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Статус:</b></td>
+        <td width="80%">К выполнению</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Проект:</b></td>
+        <td width="80%"><a href="https://nav4it.atlassian.net/secure/BrowseProject.jspa?id=10000">QAPreport</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Компоненты:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Версии Affects:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Версии фикса:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Тип:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Баг
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Приоритет:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Минор
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Автор:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="5dd864109d79ad0ef53a59f6"
+                id="word_reporter_5dd864109d79ad0ef53a59f6"
+                href="https://nav4it.atlassian.net/secure/ViewProfile.jspa?accountId=5dd864109d79ad0ef53a59f6">
+                    Студенческий аккаунт
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Исполнитель:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Не назначено
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Решение:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Нет решения
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Голоса:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Метки:</b>
+        </td>
+        <td id="labels-11452-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            АнтоновСергей                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Оценка остатка:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Затраченное время:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Исходная оценка:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Не определено
+            		</td>
+    </tr>
+    
+    	<tr>
+
+		<td bgcolor="#f0f0f0" width="20%" valign="top">
+			<b>Окружение:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" colspan="3">
+            <p>Android 10   MIUI Global 12.0.2 <span class="image-wrap" style=""><a id="11421_thumb" href="/secure/attachment/11421/11421_%D0%91%D0%B5%D0%B7+%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0+%D0%BA+%D1%81%D0%B5%D1%82%D0%B8+%231.jpg" title="Без доступа к сети #1.jpg" file-preview-type="image" file-preview-id="11421" file-preview-title="Без доступа к сети #1.jpg"><jira-attachment-thumbnail url="https://nav4it.atlassian.net/secure/thumbnail/11421/%D0%91%D0%B5%D0%B7+%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0+%D0%BA+%D1%81%D0%B5%D1%82%D0%B8+%231.jpg?default=false" jira-url="https://nav4it.atlassian.net/secure/thumbnail/11421/%D0%91%D0%B5%D0%B7+%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0+%D0%BA+%D1%81%D0%B5%D1%82%D0%B8+%231.jpg" filename="Без доступа к сети #1.jpg"><img src="https://nav4it.atlassian.net/secure/thumbnail/11421/%D0%91%D0%B5%D0%B7+%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0+%D0%BA+%D1%81%D0%B5%D1%82%D0%B8+%231.jpg" data-attachment-name="Без доступа к сети #1.jpg" data-attachment-type="thumbnail" data-media-services-id="5d4d19b2-a89b-4e67-bf18-c944a62a5a77" data-media-services-type="file" style="border: 0px solid black" /></jira-attachment-thumbnail></a></span>  <span class="image-wrap" style=""><a id="11419_thumb" href="/secure/attachment/11419/11419_%D0%91%D0%B5%D0%B7+%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0+%D0%BA+%D1%81%D0%B5%D1%82%D0%B8+%233.jpg" title="Без доступа к сети #3.jpg" file-preview-type="image" file-preview-id="11419" file-preview-title="Без доступа к сети #3.jpg"><jira-attachment-thumbnail url="https://nav4it.atlassian.net/secure/thumbnail/11419/%D0%91%D0%B5%D0%B7+%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0+%D0%BA+%D1%81%D0%B5%D1%82%D0%B8+%233.jpg?default=false" jira-url="https://nav4it.atlassian.net/secure/thumbnail/11419/%D0%91%D0%B5%D0%B7+%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0+%D0%BA+%D1%81%D0%B5%D1%82%D0%B8+%233.jpg" filename="Без доступа к сети #3.jpg"><img src="https://nav4it.atlassian.net/secure/thumbnail/11419/%D0%91%D0%B5%D0%B7+%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0+%D0%BA+%D1%81%D0%B5%D1%82%D0%B8+%233.jpg" data-attachment-name="Без доступа к сети #3.jpg" data-attachment-type="thumbnail" data-media-services-id="283c990e-7c8b-4fae-841c-6a9a6ee61132" data-media-services-type="file" style="border: 0px solid black" /></jira-attachment-thumbnail></a></span>  <span class="image-wrap" style=""><a id="11420_thumb" href="/secure/attachment/11420/11420_%D0%91%D0%B5%D0%B7+%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0+%D0%BA+%D1%81%D0%B5%D1%82%D0%B8+%232.jpg" title="Без доступа к сети #2.jpg" file-preview-type="image" file-preview-id="11420" file-preview-title="Без доступа к сети #2.jpg"><jira-attachment-thumbnail url="https://nav4it.atlassian.net/secure/thumbnail/11420/%D0%91%D0%B5%D0%B7+%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0+%D0%BA+%D1%81%D0%B5%D1%82%D0%B8+%232.jpg?default=false" jira-url="https://nav4it.atlassian.net/secure/thumbnail/11420/%D0%91%D0%B5%D0%B7+%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0+%D0%BA+%D1%81%D0%B5%D1%82%D0%B8+%232.jpg" filename="Без доступа к сети #2.jpg"><img src="https://nav4it.atlassian.net/secure/thumbnail/11420/%D0%91%D0%B5%D0%B7+%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0+%D0%BA+%D1%81%D0%B5%D1%82%D0%B8+%232.jpg" data-attachment-name="Без доступа к сети #2.jpg" data-attachment-type="thumbnail" data-media-services-id="492a5614-ba64-4634-be12-a9d4ccbd00a5" data-media-services-type="file" style="border: 0px solid black" /></jira-attachment-thumbnail></a></span>  <span class="nobr"><a href="/secure/attachment/11418/11418_%D0%91%D0%B5%D0%B7+%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0+%D0%BA+%D1%81%D0%B5%D1%82%D0%B8.mp4" title="Без доступа к сети.mp4 attached to PR01-633" data-attachment-type="file" data-attachment-name="Без доступа к сети.mp4" data-media-services-type="file" data-media-services-id="f57ac19d-2e3b-4535-b97d-d95774f4cef5" rel="noreferrer">Без доступа к сети.mp4<sup><img class="rendericon" src="/images/icons/link_attachment_7.gif" height="7" width="7" align="absmiddle" alt="" border="0"/></sup></a></span> </p>
+		</td>
+	</tr>
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Вложения:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://nav4it.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="JPEG файл">
+                    Без доступа к сети #1.jpg &nbsp;&nbsp;&nbsp;
+                                    <img src="https://nav4it.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="JPEG файл">
+                    Без доступа к сети #2.jpg &nbsp;&nbsp;&nbsp;
+                                    <img src="https://nav4it.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="JPEG файл">
+                    Без доступа к сети #3.jpg &nbsp;&nbsp;&nbsp;
+                                    <img src="https://nav4it.atlassian.net/images/icons/attach/file.gif" height="16" width="16" border="0" alt="Файл">
+                    Без доступа к сети.mp4 &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Описание</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Предусловие: 1) Установлено приложение «LOVE YOUR BODY™ CLUB» (<a href="https://play.google.com/store/apps/details?id=ru.thebodyshop.lybc)" class="external-link" rel="nofollow noreferrer">https://play.google.com/store/apps/details?id=ru.thebodyshop.lybc)</a><br/>
+2) Выполнен вход. Данные для входа: Номер тестовой сим-карты +7921123456, пароль Asddsa12.<br/>
+3) Отключены мобильный интернет и Wi-Fi.</p>
+
+<p><b>Шаги:</b><br/>
+1. Нажать кнопку Гамбургер.<br/>
+2. Нажать Акции или Мой профиль.</p>
+
+<p><b>Ожидаемый результат:</b> Вывод валидационного сообщения об отсутствии сети.</p>
+
+<p><b>Фактический результат:</b> Отсутствие валидационного сообщения. Открыта пустая страница с бесконечной анимацией прогресс индикатора.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Полученный Sun Apr 11 14:25:57 UTC 2021 Студенческий аккаунт используя JIRA 1001.0.0-SNAPSHOT#100156-sha1:ef0510686cf40db0fbe60fe0292e60df05ead372.
+
+</body>
+</html>
