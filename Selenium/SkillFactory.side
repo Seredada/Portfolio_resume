@@ -1,0 +1,76 @@
+{
+  "id": "c87aba86-731b-4feb-af0f-8d06f98c62e8",
+  "version": "2.0",
+  "name": "SkillFactory",
+  "url": "https://skillfactory.ru",
+  "tests": [{
+    "id": "1fd1a412-df4d-416c-be9a-ebccaa39a3ac",
+    "name": "Choosing a course",
+    "commands": [{
+      "id": "e1361c98-18d0-4385-9839-9e7ff4e78aaa",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "bebb13ac-82bd-4322-8c92-8fd1cbcd5ce7",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1382x744",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d1271c67-c872-40c1-8065-4e5f02b9445b",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Программы",
+      "targets": [
+        ["linkText=Программы", "linkText"],
+        ["css=.tn-elem__2932077841568973828471 > .tn-atom", "css:finder"],
+        ["xpath=//a[contains(text(),'Программы')]", "xpath:link"],
+        ["xpath=//div[@id='rec293207784']/div/div/div[20]/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'https://skillfactory.ru/courses')])[2]", "xpath:href"],
+        ["xpath=//div[20]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Программы')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "684643a8-14d9-4835-8265-1119d8794c20",
+      "comment": "",
+      "command": "click",
+      "target": "css=.t397__tab:nth-child(5) > .t397__title",
+      "targets": [
+        ["css=.t397__tab:nth-child(5) > .t397__title", "css:finder"],
+        ["xpath=//div[@id='rec224630311']/div/div/div/div/div[5]/div", "xpath:idRelative"],
+        ["xpath=//div/div/div/div[5]/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2a19fdb3-e168-47db-b645-4d108a177124",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Разработчик игр на Unity",
+      "targets": [
+        ["linkText=Разработчик игр на Unity", "linkText"],
+        ["css=.tn-elem__2246303381564107057239 > .tn-atom", "css:finder"],
+        ["xpath=//a[contains(text(),'Разработчик игр на Unity')]", "xpath:link"],
+        ["xpath=//div[@id='rec224630338']/div/div/div[11]/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'https://skillfactory.ru/game-dev')])[4]", "xpath:href"],
+        ["xpath=//div[18]/div/div/div[11]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Разработчик игр на Unity')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "83c32de4-60f4-4b3e-8a68-08b49ac107dd",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["https://skillfactory.ru/"],
+  "plugins": []
+}
